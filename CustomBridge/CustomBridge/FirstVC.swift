@@ -67,7 +67,7 @@ class FirstVC: UIViewController, UITableViewDelegate, UITableViewDataSource, Sec
         return 10
     }
     func printMyLogIn() {
-        print("离开的首付款客流量卡可凉快凉快了");
+        print("离开的首付款客流量卡可凉快凉快了 了京东佛寺反倒是");
     }
     
     
